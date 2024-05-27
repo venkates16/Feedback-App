@@ -1,0 +1,29 @@
+/* Write your CSS code here. */
+.container {
+  background-color: #ffe4c4;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 20px;
+}
+img {
+  width: 40px;
+  cursor: pointer;
+}
+.emj {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
+}
+
+.card {
+  text-align: center;
+  background-color: white;
+  box-shadow: 10px 3px 222px 22px white;
+  padding: 20px;
+  border-radius: 12px;
+}
